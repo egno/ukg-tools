@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="tsql.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="tsql"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="38"/>
+        <CursorPos X="38" Y="49"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="tsql.pas"/>
+        <Caret Line="47" Column="19" TopLine="34"/>
+      </Position1>
+      <Position2>
+        <Filename Value="tsql.pas"/>
+        <Caret Line="100" Column="1" TopLine="88"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
