@@ -130,7 +130,7 @@ end;
 procedure exportdsoft.WriteHelp;
 begin
   { add your help code here }
-  writeln('Usage: ',ExeName,' -h');
+  writeln('Usage: ',ExeName,' -s <host> [-P <port>] -d <data_base> -u <user_name> -p <password> -f <file_name>');
 end;
 
 var
